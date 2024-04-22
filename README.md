@@ -157,10 +157,14 @@ Instrucciones de la Misión:
 
 3. 📦 Área de preparacion: Preparación para el Despegue: Coloca tus documentos secretos en el área de preparacion de GIT.
 
+![alt text](image-2.png)
+
 4. 🛸 Primer Vuelo: Documentando la Misión
 	4.1 📝 Bitácora de la Misión: Crea README.md con un mensaje para la posteridad:
 		# Learning Git with RIWI is fun!
-	4.2 🚀 Lanzamiento: Utilizando el comando git commit envía tu primera bitácora al repositorio de la misión con el siguiente mensaje: "Primer vuelo: Añadiendo README.md"
+	4.2 🚀 Lanzamiento: Utilizando el comando git commit envía tu primera bitácora al repositorio de la misión con el siguiente mensaje: "Primer vuelo: Añadiendo README.md
+    
+    ![alt text](image-3.png)
 
 5. 🌠 Exploración del Cosmos: Avanzando hacia lo Desconocido
 	5.1 📄 Mensaje al Universo: Añade el esqueleto básico de HTML a index.html.
